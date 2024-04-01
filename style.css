@@ -1,0 +1,13 @@
+html, body {
+  background: black;
+  display: flex;
+  font-family: 'Trebuchet MS';
+  height: 100%;
+  justify-content: center;
+}
+
+h1 {
+  color: #ffe135;
+  margin: auto;
+  text-align: center;
+}
